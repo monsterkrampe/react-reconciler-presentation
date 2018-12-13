@@ -1,0 +1,6 @@
+<ReactComponent>
+  <SomeTree>
+    <CoolElement/>
+    <BuggyShitElement/>
+  </SomeTree>
+</ReactComponent>
